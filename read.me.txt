@@ -1,0 +1,12 @@
+1. vxsnit Java FX proekts
+2. vamatebt lombok da mysql dependecy-is pom.xml-shi]
+3. viwert mysql connector-s da vagdebt lib fileshi romelic unda shevkmnat proektshi ( awvebi final-new-directory-lib ) tu ar mushaobs eseigi database driverebshi dasamatebelia JDBC driver
+3.1 vxsnit marjvena kutxeshi database, mere date source, mere My SQL, Drivers, + nishani da virchevt MySQL da vamatebt drivers
+4. vxsnit XAMP vstartavt apache da mysql, mere mysql admin.
+5. GPT-is daxmarebit vaketebt cxrils pirobis mixedvit.
+6. mere vqmnit Java Class da GPT-is veubnmebit rom SQL cxrilis mixedvit dagviweros code
+7. akedan gadavdivart pirobis meore nawilze da vmushaobt Hello Application-shi.
+8. vekitxebit GPT-is pirobis mixedvit dagviweros sruli kodi ( sheidzleba ragaceebi gamotovos )
+9. vtestavt ramdenad mushaobs da tu lombok-ze atrakebs mashin lombokis gareshe vaketebt Java Class.
+9.1 lombokis gareshe tu mushaobs GPT-is igivenairad vekitxebit ogond lombokis gareshe.
+10. tu yvelaferi mushaobs GPT-is vekitxebit rom amave formaze gaaketos Piechart da vutitebt pirobas.
